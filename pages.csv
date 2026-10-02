@@ -1,0 +1,8 @@
+# One row per page that gets a banner. page_id: run `python3 publish.py --list`.
+# icon: a Lucide icon name (https://lucide.dev/icons) or img:path/to/logo.png
+# from/to: the gradient, and the page's heading and table colours (from = bright, to = deep)
+page_id|icon|from|to|title|subtitle
+11|map|#1d4ed8|#172554|Network Map|Physical and logical layout of the network
+6|book-open|#1d4ed8|#172554|Network Reference|Subnets, devices, DNS and services
+14|shield|#b91c1c|#450a0a|Security Overview|How the homelab is protected today
+16|book-open-check|#7c3aed|#2e1065|Runbooks|Step-by-step procedures for common jobs

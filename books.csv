@@ -1,0 +1,8 @@
+# One row per book or shelf. target: books/<slug> or shelves/<slug>, the slug from its URL.
+# from/to: header gradient and cover colours; bright: link colour in dark mode (empty = same as from)
+target|icon|from|to|bright|title|subtitle
+shelves/homelab|server|#334155|#0f172a|#94a3b8|Homelab|Everything about the homelab
+books/networking|network|#1d4ed8|#172554|#60a5fa|Networking|How the home network is built
+books/security|shield-check|#b91c1c|#450a0a|#f87171|Security|How the homelab is protected
+books/operations|wrench|#7c3aed|#2e1065|#a78bfa|Operations|Procedures and how things are run
+books/home|house|#059669|#022c22|#34d399|Home|Start page and to-do list
